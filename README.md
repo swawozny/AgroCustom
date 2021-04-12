@@ -14,6 +14,6 @@ Web application for company dealing in the production of agricultural machinery.
 ## LIVE DEMO
 agrocustom.pl
 
-## Authors
+## Author
 Sebastian Wąwoźny
 
