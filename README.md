@@ -1,14 +1,14 @@
 # AgroCustom
 
-##Description
+## Description
 Web application for company dealing in the production of agricultural machinery.
 
-##Technological stack
+## Technological stack
 - Angular 
 - Firebase
 - W3.CSS
 - HTML
 
-##LIVE DEMO
+## LIVE DEMO
 agrocustom.pl
 
